@@ -9,7 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
 namespace WebApplication
-{
+{ 
     public class Program
     {
         public static void Main(string[] args)
